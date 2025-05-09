@@ -34,7 +34,7 @@ Este projeto foi desenvolvido como parte do desafio da DIO de IA Generativa. Ele
 
 > **P:** P: Qual a proposta do Documento "Organic Chemistry I Review: Highlights of Key Reactions, Mechanisms, and Principles"?
 
-**R:** E1 é um mecanismo em dois passos via carbocátion, favorecido por nucleófilos neutros e substratos terciários. Já o E2 ocorre em um único passo com base forte, e exige orientação trans para a eliminação.
+**R:** O documento "Organic Chemistry I Review: Highlights of Key Reactions, Mechanisms, and Principles" tem como proposta revisar conceitos fundamentais de química orgânica. Ele apresenta uma síntese de reações importantes, mecanismos e princípios-chave, como a estrutura e propriedades de compostos aromáticos, comparações entre diferentes tipos de reações (SN1, SN2, E1, E2), mecanismos de reações específicas como Diels-Alder, e tópicos relacionados à aromaticidade, estabilidade molecular e planejamento sintético  ^1^  ^2^  ^3^  ^4^  ^5^ .
 
 ---
 
@@ -60,7 +60,7 @@ Este projeto foi desenvolvido como parte do desafio da DIO de IA Generativa. Ele
 
 ## 🔮 Possibilidades Futuras
 
-* Aplicar em outros temas: Farmacologia, Microbiologia, Legislação Farmacêutica.
+* Aplicar em outros temas: Farmacologia, Oncologia, Legislação Farmacêutica.
 * Criar quizzes automáticos com base no PDF.
 * Treinar um LLM pequeno com os conceitos mais recorrentes da disciplina.
 
