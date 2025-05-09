@@ -26,15 +26,15 @@ Este projeto foi desenvolvido como parte do desafio da DIO de IA Generativa. Ele
 
 ## 💬 Exemplos de Perguntas Respondidas
 
-> **Q:** P: O que é um carbocátion?
+> **P:** P: O que é um carbocátion?
 
-**A:** Um carbocátion é uma espécie química que possui um átomo de carbono carregado positivamente. Essa carga positiva ocorre devido à perda de um elétron ou de um par de elétrons, deixando o carbono com uma deficiência de carga eletrônica. (...)
+**R:** Um carbocátion é uma espécie química que possui um átomo de carbono carregado positivamente. Essa carga positiva ocorre devido à perda de um elétron ou de um par de elétrons, deixando o carbono com uma deficiência de carga eletrônica. (...)
 
 ---
 
-> **Q:** Qual a diferença entre E1 e E2?
+> **P:** P: Qual a proposta do Documento "Organic Chemistry I Review: Highlights of Key Reactions, Mechanisms, and Principles"?
 
-**A:** E1 é um mecanismo em dois passos via carbocátion, favorecido por nucleófilos neutros e substratos terciários. Já o E2 ocorre em um único passo com base forte, e exige orientação trans para a eliminação.
+**R:** E1 é um mecanismo em dois passos via carbocátion, favorecido por nucleófilos neutros e substratos terciários. Já o E2 ocorre em um único passo com base forte, e exige orientação trans para a eliminação.
 
 ---
 
