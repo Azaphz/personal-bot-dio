@@ -18,7 +18,7 @@ Este projeto foi desenvolvido como parte do desafio da DIO de IA Generativa. Ele
 ## 🧾 Input Real Utilizado
 
 ### 🗂 Arquivo PDF
-📄 `aReview-of-Organic-Chem-I.pdf`
+📄 `Review-of-Organic-Chem-I.pdf`
 
 > Contém: Guia completo de Química Orgânica I com mecanismos, reações (SN1, SN2, E1, E2), estabilidade de intermediários, princípios de aromaticidade, Diels-Alder e mais!
 
@@ -44,9 +44,7 @@ Este projeto foi desenvolvido como parte do desafio da DIO de IA Generativa. Ele
 📁 chatbot-pdf/
 ├── inputs/
 │   └── prompts.txt  # Perguntas e Respostas do Bot
-├── pdfs/
-│   └── aReview-of-Organic-Chem-I.pdf
-├── app.py                     # Lógica do chatbot
+├── Review-of-Organic-Chem-I.pdf
 └── README.md
 ````
 
@@ -69,15 +67,13 @@ Este projeto foi desenvolvido como parte do desafio da DIO de IA Generativa. Ele
 ---
 
 ## 📸 Prints e Demonstrações
+![Adicionando fonte de dados no Chatbot](https://github.com/user-attachments/assets/c7747dbb-29af-465e-b753-227663fba999)
 
-*(Adicione imagens da interface ou da resposta do bot aqui)*
+![Chatbot referenciando o pdf](https://github.com/user-attachments/assets/1e89ddbb-f497-4f94-806f-75ef7b591ce5)
+
 
 ---
 
 ## 👨‍🔬 Repositório
 
 [🔗 Clique aqui para acessar no GitHub](https://github.com/Azaphz/personal-bot-dio)
-
----
-
-```
