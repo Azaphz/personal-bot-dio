@@ -28,7 +28,7 @@ Este projeto foi desenvolvido como parte do desafio da DIO de IA Generativa. Ele
 
 > **Q:** P: O que é um carbocátion?
 
-**A:** Carbocátions são mais estáveis quando são do tipo allylic > 3º > 2º > 1º > metil > alkenil, principalmente quando há ressonância (como no caso de estruturas allylic).
+**A:** Um carbocátion é uma espécie química que possui um átomo de carbono carregado positivamente. Essa carga positiva ocorre devido à perda de um elétron ou de um par de elétrons, deixando o carbono com uma deficiência de carga eletrônica. (...)
 
 ---
 
