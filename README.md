@@ -43,11 +43,10 @@ Este projeto foi desenvolvido como parte do desafio da DIO de IA Generativa. Ele
 ```bash
 📁 chatbot-pdf/
 ├── inputs/
-│   └── frases_de_exemplo.txt  # Frases usadas
+│   └── prompts.txt  # Perguntas e Respostas do Bot
 ├── pdfs/
 │   └── aReview-of-Organic-Chem-I.pdf
 ├── app.py                     # Lógica do chatbot
-├── requirements.txt
 └── README.md
 ````
 
