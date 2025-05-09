@@ -26,7 +26,7 @@ Este projeto foi desenvolvido como parte do desafio da DIO de IA Generativa. Ele
 
 ## 💬 Exemplos de Perguntas Respondidas
 
-> **Q:** O que torna um carbocátion mais estável?
+> **Q:** P: O que é um carbocátion?
 
 **A:** Carbocátions são mais estáveis quando são do tipo allylic > 3º > 2º > 1º > metil > alkenil, principalmente quando há ressonância (como no caso de estruturas allylic).
 
